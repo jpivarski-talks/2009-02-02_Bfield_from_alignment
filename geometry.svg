@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="403.58929"
+   height="154.32097"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="geometry.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/jpivarski/work/talks/latest/geometry.png"
+   inkscape:export-xdpi="199.91649"
+   inkscape:export-ydpi="199.91649">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3678"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3675"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="132.39087"
+     inkscape:cy="119.79333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:object-nodes="true"
+     inkscape:object-paths="false"
+     inkscape:window-width="1434"
+     inkscape:window-height="846"
+     inkscape:window-x="0"
+     inkscape:window-y="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2383"
+       visible="true"
+       enabled="false"
+       spacingx="10px"
+       spacingy="10px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-199.625,-390.45956)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:url(#Arrow1Mend);stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 402.14286,460.31882 L 403.21428,502.36218"
+       id="path3664" />
+    <image
+       xlink:href="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_angle.png"
+       sodipodi:absref="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_angle.png"
+       width="27.981457"
+       height="22.214287"
+       id="image3466"
+       x="221.98282"
+       y="480.32651" />
+    <image
+       xlink:href="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_residual.png"
+       sodipodi:absref="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_residual.png"
+       width="284.44446"
+       height="46.545456"
+       id="image3334"
+       x="318.76984"
+       y="390.45956"
+       style="fill:#0000ff" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#ffecd5;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2463"
+       sodipodi:sides="12"
+       sodipodi:cx="350"
+       sodipodi:cy="502.36218"
+       sodipodi:r1="43.526482"
+       sodipodi:r2="42.04335"
+       sodipodi:arg1="-1.8325957"
+       sodipodi:arg2="-1.5707963"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 338.73452,460.31883 L 361.26548,460.31883 L 380.77787,471.58431 L 392.04335,491.0967 L 392.04335,513.62767 L 380.77787,533.14005 L 361.26548,544.40554 L 338.73452,544.40554 L 319.22213,533.14005 L 307.95665,513.62766 L 307.95665,491.0967 L 319.22213,471.58431 L 338.73452,460.31883 z" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2459"
+       sodipodi:cx="200"
+       sodipodi:cy="502.36218"
+       sodipodi:rx="150"
+       sodipodi:ry="150"
+       d="M 325.67083,420.46687 A 150,150 0 0 1 350,502.36218 L 200,502.36218 z"
+       sodipodi:start="5.7056403"
+       sodipodi:end="6.2831853" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path2461"
+       sodipodi:cx="250"
+       sodipodi:cy="502.36218"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       d="M 333.97702,448.06798 A 100,100 0 0 1 350,502.36218 L 250,502.36218 z"
+       sodipodi:start="5.7092488"
+       sodipodi:end="6.2831853" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:2.25, 2.25;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 340.89286,412.10453 L 340.89286,502.36218"
+       id="path2469"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:2.25, 2.25;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 344.39866,412.20157 L 344.39866,502.36218"
+       id="path2471"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3245"
+       sodipodi:cx="250"
+       sodipodi:cy="502.36218"
+       sodipodi:rx="16.785715"
+       sodipodi:ry="16.785715"
+       d="M 264.06316,493.19771 A 16.785715,16.785715 0 0 1 266.78572,502.36218"
+       sodipodi:open="true"
+       sodipodi:start="5.7056403"
+       sodipodi:end="6.2831853" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3249"
+       sodipodi:cx="200"
+       sodipodi:cy="502.36218"
+       sodipodi:rx="22.857143"
+       sodipodi:ry="22.857143"
+       d="M 219.14984,489.8829 A 22.857143,22.857143 0 0 1 222.85714,502.36218"
+       sodipodi:open="true"
+       sodipodi:start="5.7056403"
+       sodipodi:end="6.2831853" />
+    <image
+       xlink:href="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_bfield.png"
+       sodipodi:absref="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_bfield.png"
+       width="158.25473"
+       height="26.839998"
+       id="image3400"
+       x="416.24637"
+       y="440.3317" />
+    <image
+       xlink:href="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_R.png"
+       sodipodi:absref="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_R.png"
+       width="9"
+       height="10.323529"
+       id="image3650"
+       x="229.50656"
+       y="463.03986" />
+    <image
+       xlink:href="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_ell.png"
+       sodipodi:absref="/home/jpivarski/work/hepr8.physics.tamu.edu/talks/2009-02-02_Bfield_from_alignment/equations_ell.png"
+       width="9.2142859"
+       height="10.75"
+       id="image3585"
+       x="398.28568"
+       y="475.11221" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:2.25, 2.25;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 350,502.36218 L 403.21428,502.36218"
+       id="path3660"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:2.25, 2.25;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 348.57143,460.31882 L 402.14286,460.31882"
+       id="path3662"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="349.66071"
+       y="529.48566"
+       id="text4969"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4971"
+         x="349.66071"
+         y="529.48566">CMS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="269.45819"
+       y="418.49149"
+       id="text4973"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4975"
+         x="269.45819"
+         y="418.49149">real muon trajectory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+       x="275.77164"
+       y="450.05872"
+       id="text4977"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4979"
+         x="275.77164"
+         y="450.05872">reconstructed track</tspan></text>
+    <path
+       sodipodi:end="6.2831853"
+       sodipodi:start="5.7092488"
+       d="M 333.97702,448.06798 A 100,100 0 0 1 350,502.36218"
+       sodipodi:ry="100"
+       sodipodi:rx="100"
+       sodipodi:cy="502.36218"
+       sodipodi:cx="250"
+       id="path4981"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3010ff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:open="true" />
+    <path
+       sodipodi:end="6.2831853"
+       sodipodi:start="5.7056403"
+       d="M 325.67083,420.46687 A 150,150 0 0 1 350,502.36218"
+       sodipodi:ry="150"
+       sodipodi:rx="150"
+       sodipodi:cy="502.36218"
+       sodipodi:cx="200"
+       id="path4983"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3010ff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       sodipodi:open="true" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3010ff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 326.96429,426.46933 L 325.67083,420.46687 L 330.53571,424.14789"
+       id="path7073"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path7075"
+       d="M 335.27048,454.07044 L 333.97702,448.06798 L 338.8419,451.749"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#3010ff;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000083000000006;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect7077"
+       width="8.7757006"
+       height="11.869292"
+       x="121.09203"
+       y="3.9976428"
+       transform="translate(199.625,390.45956)"
+       ry="0" />
+    <rect
+       ry="0"
+       y="446.98514"
+       x="465.16885"
+       height="11.869292"
+       width="8.7757006"
+       id="rect7079"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000083;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
+</svg>
